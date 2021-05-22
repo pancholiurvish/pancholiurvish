@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="left"> Hey there, I'm Urvish 👋 </h1>
 
 <p align="left">
-   <a href="https://urvishpancholi.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://dewith.co/"></a>
+   <a href="https://urvishpancholi.com/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https:// urvishpancholi.com/"></a>
    <a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a>
    <a href="https://twitter.com/DewithMiramon"><img alt="Twitter" src="https://img.shields.io/badge/-@DewithMiramon-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DewithMiramon"></a>
    <a href="mailto:dewithmiramon@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-dewithmiramon@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
