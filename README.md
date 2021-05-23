@@ -14,7 +14,7 @@
 ---
 
 <!-- credits for gif https://gph.is/2pYEMXc -->
-<img align="right" height="150" width="210" src="https://gph.is/2pYEMXc"> 
+<img align="right" height="150" width="210" src="giphy.gif"> 
 
 - 🔭 **I’m currently working on:** Learning Python , Upskilling Cyber Security 
 - 🌱 **I’m currently learning:** Infosec
