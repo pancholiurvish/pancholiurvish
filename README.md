@@ -18,7 +18,7 @@
 
 - 🔭 **I’m currently working on:** Learning Python , Upskilling Cyber Security 
 - 🌱 **I’m currently learning:** Infosec
-- - 👯 **I’m looking to collaborate on:** Cyber Security projects/competitions
+- 👯 **I’m looking to collaborate on:** Cyber Security projects/competitions
 - 💬 **Ask me about:** Cyber Security, memes, kdramas, Bad Bunny, Netflix , 
 - ⚡ **Hobbies:** books, internet, music, series , Googling
 - 😄 **Pronouns:** he/him
