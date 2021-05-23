@@ -7,6 +7,7 @@
    <a href="https://twitter.com/pancholiurvish"><img alt="Twitter" src="https://img.shields.io/badge/-@pancholiurvish-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pancholiurvish"></a>
    <a href="mailto:info@urvishpancholi.com"><img alt="E-Mail" src="https://img.shields.io/badge/-info@urvishpancholi.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@urvishpancholi.com"></a>
    <a href="https://medium.com/@pancholiurvish"><img alt="Medium" src="https://img.shields.io/badge/-@pancholiurvish-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@pancholiurvish"></a>
+   
 </p>
 
 <h3 align="left">   Pen tester | MCT | CEH | CHFI | JNCIAx3 | CCNA | Scrum Foundation | MCSA | CompTIAx3 | Aviatrix | EC-Councilx4 | Microsoftx4 | White Belt certified | Web Developer | Programmer | Internet citizen. </h3>
