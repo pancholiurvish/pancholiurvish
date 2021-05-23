@@ -9,12 +9,12 @@
    <a href="https://medium.com/@pancholiurvish"><img alt="Medium" src="https://img.shields.io/badge/-@pancholiurvish-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@pancholiurvish"></a>
 </p>
 
-<h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>
+<h3 align="left">   Pen tester | MCT | CEH | CHFI | JNCIAx3 | CCNA | Scrum Foundation | MCSA | CompTIAx3 | Aviatrix | EC-Councilx4 | Microsoftx4 | White Belt certified | Web Developer | Programmer | Internet citizen. </h3>
 
 ---
 
-<!-- credits for gif https://gph.is/g/ZWg5jr7 -->
-<img align="right" height="150" width="210" src="data.gif">
+<!-- credits for gif https://gph.is/2pYEMXc -->
+<img align="right" height="150" width="210" src="https://gph.is/2pYEMXc"> 
 
 - 🔭 **I’m currently working on:** Learning Python , Upskilling Cyber Security 
 - 🌱 **I’m currently learning:** Infosec
