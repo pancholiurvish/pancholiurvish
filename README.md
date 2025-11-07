@@ -17,7 +17,7 @@
 <!-- credits for gif https://gph.is/2pYEMXc -->
 <img align="right" height="150" width="210" src="giphy.gif"> 
 
-- 🔭 **I’m currently working on:** Learning Python , Upskilling in Cyber Security 
+- 🔭 **I’m currently working on:** Learning Python , Upskilling in Cyber Security, AI
 - 🌱 **I’m currently learning:** Infosec
 - 👯 **I’m looking to collaborate on:** Cyber Security projects/competitions
 - 💬 **Ask me about:** Cyber Security, memes, kdramas, Netflix , 
